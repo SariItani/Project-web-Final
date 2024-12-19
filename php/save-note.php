@@ -10,7 +10,7 @@ if (!isset($_SESSION['user_id'])) {
 // Database connection
 $host = 'localhost';
 $db   = 'notes';
-$user = '';
+$user = 'root';
 $pass = '';
 $charset = 'utf8mb4';
 
